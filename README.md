@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor Sena
-- 👀 I’m interested in Java with Spring
+- 👀 I’m interested in Node.js
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collab with some company like Dev React.js Junior
+- 💞️ I’m looking to collab with some company like Dev React.js
 - 📫 How to reach me email victor_sena19@hotmail.com
 
 <!--- 
