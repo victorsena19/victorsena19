@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Victor Sena
-- 👀 Eu estou interessado em Flutter
-- 🌱 Eu estou estudando atualmente Java
+- 👀 Eu estou interessado em Inglês
+- 🌱 Eu sou desenvolvedor Java
 - 💞️ Estou procurando colaborar com alguma empresa como Dev Java
 - 📫 Para entrar em contato comigo o e-mail é victor_sena19@hotmail.com
 
